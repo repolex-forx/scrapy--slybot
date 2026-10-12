@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "slybot",
+  "versions": [
+    {
+      "commit": "47ce5afa740f99943a6bbd3bdfc5d624d7621f61",
+      "tag": "",
+      "parsed_at": "2026-10-12T06:19:15.068504+00:00"
+    }
+  ]
+}
