@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapy/slybot/commit/47ce5afa740f99943a6bbd3bdfc5d624d7621f61",
       "git:hexsha": "47ce5afa740f99943a6bbd3bdfc5d624d7621f61",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
