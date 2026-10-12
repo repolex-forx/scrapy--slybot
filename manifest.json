@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "scrapy",
+  "repo": "slybot",
+  "versions": [
+    {
+      "commit": "47ce5afa740f99943a6bbd3bdfc5d624d7621f61",
+      "parsed_at": "2026-10-12T06:16:22.404243+00:00",
+      "filetree": "filetree/47ce5afa740f99943a6bbd3bdfc5d624d7621f61.nq.gz",
+      "blobs": [
+        "blob/6d5577b0825fadaea144b00266f593005b4037ee.nq.gz",
+        "blob/71946bc512c82504292b172aabe0ca57e61d57c9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
